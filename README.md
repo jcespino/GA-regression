@@ -31,7 +31,7 @@ Following these steps will help you better understand your dataset.
     - Advanced Option: Replace missing values using multiple imputation methods
 
 - **Submission:**
-    - Thursday 
+    - Thursday April 5
     
 - **Dataset**
   - You may use the `admissions.csv` dataset from our last assignment or choose a different dataset that we've encountered in class.
